@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Rubén Casares — Software Engineer | Cloud and DevOps Enthusiast</title>
+<desc id="desc">Dark navy developer portfolio banner with cyan technology-inspired shapes and the name Rubén Casares.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081526"/><stop offset=".54" stop-color="#0b2441"/><stop offset="1" stop-color="#102e52"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#42d6ee"/><stop offset="1" stop-color="#519aff"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#4482aa" stroke-width=".8" opacity=".16"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="20"/></filter>
+</defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+<circle cx="1028" cy="132" r="112" fill="#146eae" opacity=".23" filter="url(#glow)"/>
+<path d="M0 288h1200" stroke="url(#accent)" stroke-width="3" opacity=".8"/>
+<rect x="72" y="52" width="6" height="200" rx="3" fill="url(#accent)"/>
+<text x="102" y="78" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#7bd6f6">DEVELOPER PORTFOLIO</text>
+<text x="102" y="160" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" fill="#ffffff">Rubén Casares</text>
+<text x="102" y="206" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="500" fill="#b6d8fa">Software Engineer</text>
+<text x="335" y="206" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="500" fill="#4ad9ef">|</text>
+<text x="351" y="206" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="500" fill="#b6d8fa">Cloud &amp; DevOps Enthusiast</text>
+<text x="102" y="251" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing=".6" fill="#91afce">BUILD  /  AUTOMATE  /  IMPROVE</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <rect x="909" y="57" width="210" height="205" rx="18" stroke="#3998c9" stroke-width="1.5" opacity=".62" fill="#102b4c" fill-opacity=".35"/>
+ <path d="M949 109l-22 17 22 17m128-34 22 17-22 17m-74-48-18 65" stroke="url(#accent)" stroke-width="5"/>
+ <path d="M969 191h96m-96 19h62m-62 19h80" stroke="#6bbcdf" stroke-width="4" opacity=".45"/>
+ <path d="M843 84h66m-66 0v65h33m243 25h36m-36 0v-48h23M874 235h35m-35 0v39h96" stroke="#4ea7d3" stroke-width="1.5" opacity=".6"/>
+ <circle cx="843" cy="84" r="4" fill="#4ad9ef"/><circle cx="876" cy="149" r="4" fill="#4ad9ef"/><circle cx="1155" cy="174" r="4" fill="#4ad9ef"/><circle cx="970" cy="274" r="4" fill="#4ad9ef"/>
+</g>
+</svg>
