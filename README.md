@@ -13,14 +13,14 @@
 
 ## About me
 
-I'm **Rubén Casares**, a software developer interested in building practical applications, understanding how systems work behind the scenes, and making software more reliable through automation.
+I'm **Rubén Casares**, an **Information Technology student** with hands-on experience developing **web applications and software systems**. I've worked on projects involving web interfaces, backend development, databases, and practical solutions to real-world needs.
 
-My work and projects span **web development, backend services, databases, and Linux-based development environments**. I'm expanding my skills in **cloud infrastructure, DevOps practices, CI/CD, and observability**.
+I'm currently focusing my professional growth on **Cloud Computing and DevOps**, strengthening my knowledge of Linux, containers, infrastructure automation, and modern software delivery practices.
 
-- 🔧 I enjoy turning real-world requirements into maintainable software.
-- 🐧 I work with Linux, Git, Docker, and development tooling.
-- ☁️ I'm learning cloud architecture and automated delivery workflows.
-- 🎯 My goal is to grow into a software engineering role with strong Cloud & DevOps skills.
+- 💻 **Software development:** Web applications, backend services, and database-driven systems.
+- 🐧 **Tools & infrastructure:** Linux, Git, Docker, and modern development workflows.
+- ☁️ **Specialization in progress:** Cloud fundamentals, CI/CD, automation, and reliability.
+- 🎯 **Career goal:** Combine software engineering with Cloud & DevOps to build efficient, maintainable, and reliable systems.
 
 ## Tech stack
 
