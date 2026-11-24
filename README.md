@@ -2,14 +2,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123A63,100:007ACC&height=210&section=header&text=Rub%C3%A9n%20Casares&fontSize=48&fontColor=FFFFFF&fontAlignY=39&desc=Software%20Engineer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast&descAlignY=63&descSize=17" alt="Rubén Casares — Software Engineer | Cloud & DevOps Enthusiast" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Rubén Casares — Software Engineer | Cloud & DevOps Enthusiast" width="100%" />
 
 ### Building software. Learning infrastructure. Automating what matters.
+
+<sub>Information Technology student · Web application development · Exploring Cloud & DevOps</sub>
 
 <a href="https://github.com/RubenCasaresR?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20projects-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Mexico-123A63?style=for-the-badge" alt="Based in Mexico" />
 
 </div>
+
+<div align="center">
+
+[About me](#about-me) · [Tech stack](#tech-stack) · [Projects](#featured-projects) · [Learning](#what-im-working-toward) · [Connect](#lets-connect)
+
+</div>
+
+---
 
 ## About me
 
