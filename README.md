@@ -44,48 +44,64 @@ I'm currently focusing my professional growth on **Cloud Computing and DevOps**,
 
 ## Featured projects
 
+<div align="center">
+
+A selection of projects reflecting my experience with **business applications, backend development, and data-driven software**.
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🎟️ [HelpDesk Ticketing System](https://github.com/RubenCasaresR/Sistema-de-tickets-helpdesk-)
 
-A PHP-based ticketing system project focused on web application workflows and business software development.
+Support-ticket and task management application, with role-based workflows, reporting and SLA evaluation scripts.
 
-**Focus:** Web development · PHP · Application workflows
+<img src="https://img.shields.io/badge/PHP-Backend-343F6B?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-Database-0C5777?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+**[Explore project →](https://github.com/RubenCasaresR/Sistema-de-tickets-helpdesk-)** · [Documentation](https://github.com/RubenCasaresR/Sistema-de-tickets-helpdesk-#readme)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚾ [MLB Predictive System](https://github.com/RubenCasaresR/MLB-Predictive-System)
 
-A data-driven application exploring predictive analytics, backend APIs, databases, and automated testing.
+Data-oriented software project exploring predictive modeling, REST APIs and backend architecture.
 
-**Focus:** Python · FastAPI · PostgreSQL · Data analysis
+<img src="https://img.shields.io/badge/Python-Language-254E70?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-API-087F74?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/PostgreSQL-Data-315C83?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+**[Explore project →](https://github.com/RubenCasaresR/MLB-Predictive-System)** · [Documentation](https://github.com/RubenCasaresR/MLB-Predictive-System#readme)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 👥 [Human Resources System](https://github.com/RubenCasaresR/Sistema-RH)
+### 👥 [Sistema Integral RH](https://github.com/RubenCasaresR/Sistema-RH)
 
-An enterprise-oriented PHP project that showcases work with administrative software.
+Modular human-resources application covering employee records, attendance, leave, recruitment and related administration workflows.
 
-**Focus:** PHP · Business applications
+<img src="https://img.shields.io/badge/PHP-Backend-343F6B?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-Database-0C5777?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+**[Explore project →](https://github.com/RubenCasaresR/Sistema-RH)** · [Documentation](https://github.com/RubenCasaresR/Sistema-RH#readme)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 [Serranto Website](https://github.com/RubenCasaresR/Pagina-web-Serranto)
 
-A web development project demonstrating front-end implementation and website structure.
+Multi-page website project demonstrating HTML structure, CSS styling and client-side JavaScript.
 
-**Focus:** HTML · Web development
+<img src="https://img.shields.io/badge/HTML-Frontend-A54C20?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-Styling-215A9B?style=flat-square&logo=css&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-Client--side-5A5200?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+
+**[Explore project →](https://github.com/RubenCasaresR/Pagina-web-Serranto)**
 
 </td>
 </tr>
 </table>
+
+<sub>These repositories demonstrate project work; production readiness and deployment are not implied.</sub>
 
 ## What I'm working toward
 
