@@ -56,7 +56,7 @@ I'm currently focusing my professional growth on **Cloud Computing and DevOps**,
 
 <div align="center">
 
-A selection of projects reflecting my experience with **business applications, backend development, and data-driven software**.
+Six selected projects showcasing **business applications, backend development, e-commerce and web development**.
 
 </div>
 
@@ -106,6 +106,30 @@ Multi-page website project demonstrating HTML structure, CSS styling and client-
 <img src="https://img.shields.io/badge/HTML-Frontend-A54C20?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-Styling-215A9B?style=flat-square&logo=css&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-Client--side-5A5200?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 
 **[Explore project →](https://github.com/RubenCasaresR/Pagina-web-Serranto)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [Santillana Online Store](https://github.com/RubenCasaresR/Pagina-web-Santillana)
+
+Multi-category e-commerce website project with product browsing, cart and checkout pages, plus PHP components.
+
+<img src="https://img.shields.io/badge/HTML-Frontend-A54C20?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-Styling-215A9B?style=flat-square&logo=css&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-Frontend-5A5200?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/PHP-Backend-343F6B?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+
+**[Explore project →](https://github.com/RubenCasaresR/Pagina-web-Santillana)**
+
+</td>
+<td width="50%" valign="top">
+
+### 👟 [Naerdex Footwear Website](https://github.com/RubenCasaresR/Pagina-web-Naerdex)
+
+Footwear-focused website project with category, product, informational and contact pages.
+
+<img src="https://img.shields.io/badge/PHP-Web-343F6B?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/CSS-Styling-215A9B?style=flat-square&logo=css&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/JavaScript-Client--side-5A5200?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+
+**[Explore project →](https://github.com/RubenCasaresR/Pagina-web-Naerdex)**
 
 </td>
 </tr>
